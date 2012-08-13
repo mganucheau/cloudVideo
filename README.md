@@ -1,19 +1,19 @@
-cloudVideo 
+# cloudVideo #
 -----------------------------------
 an interactive cloud controlled by video
 by Matt Ganucheau (mganucheau@gmail.com)
 
 Libraries Used: 
-pbox2d    - https://github.com/shiffman/PBox2D
-controlP5 - http://www.sojamo.de/libraries/controlP5/
+- pbox2d    https://github.com/shiffman/PBox2D
+- controlP5 http://www.sojamo.de/libraries/controlP5/
 
 Commands:
-B - shows/hides boundaries
-P - shows/hides particles
+- B shows/hides boundaries
+- P shows/hides particles
 
 This sketch uses code from the following sources:
-Blobby - PBox2D example, 2008, Daniel Shiffman.
-Webcam Piano - Copyright (c) 2008, Memo Akten, www.memo.tv
+- Blobby - PBox2D example, 2008, Daniel Shiffman.
+- Webcam Piano - Copyright (c) 2008, Memo Akten, www.memo.tv
 
 -----------------------------------
  
